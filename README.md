@@ -25,7 +25,7 @@ Follow these steps to run the application locally:
 ### Steps to Run the Project Locally
 
 1. **Clone the repository** to your local machine using Git:
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/preetyadav28/task-manager-app.git
 
 2. **Navigate to the Project Directory**:
    cd task-manager
