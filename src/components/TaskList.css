@@ -1,0 +1,21 @@
+.task-list {
+    margin: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+.task-list > div {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .task-list {
+        margin: 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .task-list {
+        margin: 10px;
+    }
+}
