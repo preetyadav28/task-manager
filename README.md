@@ -25,7 +25,7 @@ Follow these steps to run the application locally:
 ### Steps to Run the Project Locally
 
 1. **Clone the repository** to your local machine using Git:
-   git clone https://github.com/preetyadav28/task-manager-app.git
+   git clone https://github.com/preetyadav28/task-manager.git
 
 2. **Navigate to the Project Directory**:
    cd task-manager
@@ -37,3 +37,7 @@ Follow these steps to run the application locally:
    npm start
 
 5. Open your browser and navigate to  [http://localhost:3000](http://localhost:3000) to view the application.
+
+## Served using Firebase
+
+1. This **Task Manager** application can be accessed at https://task-manager-70707.web.app/.
